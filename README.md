@@ -1,1 +1,1 @@
-# route_detr
+# Dual-R-DETR
